@@ -20,6 +20,7 @@ Laravel(PHP)+Apache+MySQL+phpMyAdminで
 * http://localhost:8081/
 
 # YouTubeページ
+https://www.youtube.com/watch?v=02PUlWIYjUc
 
 チャンネル  
 https://www.youtube.com/@HideT_ch
